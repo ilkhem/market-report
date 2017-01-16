@@ -1,1 +1,5 @@
-https://challengerdeep.atlassian.net/browse/DEV-619# market-report
+# market-report
+
+run python main.py -h for help
+
+# missing doc
